@@ -2,7 +2,7 @@
 This app generate **andoroid.intent.action.MAIN** for change custom launcher on Oukitel K5
 
 ## Usage
-1. Download apk from * *app/release* * folder
+1. Download apk from *app/release* folder
 2. Install from device filemanager or via **adb**:
 ```
 $ adb install launchd.apk
